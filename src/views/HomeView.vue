@@ -1,11 +1,11 @@
 <script setup>
-import Calender from '@/components/Calender.vue'
+import Calendar from '@/components/Calendar.vue'
 </script>
 
 <template>
   <main>
     <div class="container mx-auto py-10 mt-20">
-      <Calender />
+      <Calendar />
     </div>
   </main>
 </template>
